@@ -1,0 +1,108 @@
+.displanum{
+    width: 70vw;
+    height: 16vh;
+    border-radius: 2px ;
+    background-color: rgb(162, 167, 167);
+    text-align: end;
+    padding-top: 0%;
+    padding-right: 2%;
+    font-size: 10.2vh;
+}
+
+
+.particion{
+    display: flex;
+    flex-direction: row;
+    width: 70vw;
+    margin-top: 7%;
+    font-size: 4vh;
+}
+
+.butons{
+    width:50vw;
+    margin: 0;
+}
+
+
+.estilobuton{
+    width: 33%;
+    height: 18vh;
+    border: 4px solid #d5dfe5 ;
+
+}
+
+.cerounique{
+    width: 40vw;
+    height: 12vh;
+    border: 4px solid #d5dfe5 ;
+}
+
+.punto{
+    width: 9vw;
+    height: 12vh;
+    font-size: smaller;
+    border: 4px solid #d5dfe5 ;
+
+}
+
+.deleteunique{
+    width: 20vw ;
+    border: 4px solid #d5dfe5 ;
+    height: 10vh;
+}
+
+.porc{
+    width: 20vw ;
+    border: 4px solid #d5dfe5 ;
+    height: 10vh;
+
+}
+
+.sumaunique{
+    width: 10vw ;
+    border: 2px solid #d5dfe5 ;
+    height: 17vh;
+    
+}
+
+.restaunique{
+    width: 10vw ;
+    border: 2px solid #d5dfe5 ;
+    height: 17vh;
+
+}
+
+.multiunique{
+    width: 10vw ;
+    border: 2px solid #d5dfe5 ;
+    height: 17vh;
+}
+
+.diviunique{
+    width: 10vw ;
+    border: 2px solid #d5dfe5 ;
+    height: 17vh;
+}
+
+.convert{
+    width: 10vw ;
+    border: 2px solid #d5dfe5 ;
+    height: 12vh;
+    font-size:3.5vh;
+}
+
+.igualjsjsj{
+    width: 10vw ;
+    border: 2px solid #d5dfe5 ;
+    height: 12vh;
+}
+
+.operacion{
+    width:20vw;
+    margin: 0;
+    margin-left: 0.2%;
+
+
+}
+
+/* https://coolors.co/d5dfe5-c9b1bd-b49594-7f9172-567568 */
