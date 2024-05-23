@@ -1,13 +1,16 @@
 .displanum{
     width: 70vw;
     height: 16vh;
-    border-radius: 2px ;
+    border-radius: 10px ;
+    border: 4px solid #d5dfe5 ;
     background-color: rgb(162, 167, 167);
     text-align: end;
     padding-top: 0%;
     padding-right: 2%;
     font-size: 10.2vh;
+    color: #d5dfe5;
 }
+
 
 
 .particion{
@@ -16,6 +19,7 @@
     width: 70vw;
     margin-top: 7%;
     font-size: 4vh;
+    animation-duration: 1s;
 }
 
 .butons{
